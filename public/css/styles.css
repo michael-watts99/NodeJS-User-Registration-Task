@@ -1,0 +1,47 @@
+body
+{
+   text-align: center; 
+}
+form
+{
+    display: inline-block;
+    position: relative;
+
+}
+#lname
+{
+    position: absolute;
+    left: 55%;
+    
+    width: fit-content;
+    
+}
+#fname
+{
+    position: absolute;
+    /* width: fit-content; */
+}
+.input
+{
+    font-size: 20pt;
+    padding-bottom: 5%;
+    
+}
+.inputBox
+{
+    width: 100%;
+}
+.name
+{
+    width: fit-content;
+    padding-bottom: 20%;
+}
+.title
+{
+    font-size: 30pt;
+}
+
+.button
+{
+    font-size: 20pt;
+}
